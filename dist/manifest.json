@@ -10,7 +10,7 @@
         {
             "key": "redirect_url",
             "label": "SmartOpen Url",
-            "default_value": "https://terra.mobetize.com",
+            "default_value": "http://localhost:3000/marketplace",
             "data_type": "string",
             "editor_role": "content_editor"
         },
