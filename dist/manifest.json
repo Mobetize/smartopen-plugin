@@ -10,7 +10,7 @@
         {
             "key": "redirect_url",
             "label": "SmartOpen Url",
-            "default_value": "http://localhost:3000",
+            "default_value": "https://nova.mobetize.com",
             "data_type": "string",
             "editor_role": "content_editor"
         },
