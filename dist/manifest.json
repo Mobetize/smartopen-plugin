@@ -10,7 +10,7 @@
         {
             "key": "redirect_url",
             "label": "SmartOpen Url",
-            "default_value": "https://nova.mobetize.com",
+            "default_value": "https://minerva.mobetize.com",
             "data_type": "string",
             "editor_role": "content_editor"
         },
@@ -28,5 +28,5 @@
     "vendor_id": "mobetize-com",
     "id": "mobetize-com/smartopen-plugin",
     "type": "redirect",
-    "version": "1.0.0"
+    "version": "1.0.2"
 }
