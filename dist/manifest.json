@@ -10,7 +10,7 @@
         {
             "key": "redirect_url",
             "label": "SmartOpen Url",
-            "default_value": "https://minerva.mobetize.com",
+            "default_value": "https://openanytime.mainstreetcu.ca",
             "data_type": "string",
             "editor_role": "content_editor"
         },
