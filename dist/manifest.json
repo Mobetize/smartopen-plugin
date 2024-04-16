@@ -10,7 +10,7 @@
         {
             "key": "redirect_url",
             "label": "SmartOpen Url",
-            "default_value": "https://minerva.mobetize.com",
+            "default_value": "https://terra.mobetize.com",
             "data_type": "string",
             "editor_role": "content_editor"
         },
@@ -18,6 +18,13 @@
             "key": "message",
             "label": "SmartOpen Message",
             "default_value": "Please click on the button to start.",
+            "data_type": "string",
+            "editor_role": "content_editor"
+        },
+        {
+            "key": "institution",
+            "label": "Financial institution",
+            "default_value": "MOBETIZE",
             "data_type": "string",
             "editor_role": "content_editor"
         }
@@ -28,5 +35,5 @@
     "vendor_id": "mobetize-com",
     "id": "mobetize-com/smartopen-plugin",
     "type": "redirect",
-    "version": "1.0.2"
+    "version": "1.0.0"
 }
