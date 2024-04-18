@@ -22,10 +22,24 @@
             "editor_role": "content_editor"
         },
         {
-            "key": "institution",
-            "label": "Financial institution",
-            "default_value": "MOBETIZE",
-            "data_type": "string",
+            "key": "isTest",
+            "label": "Test Instance",
+            "default_value": true,
+            "data_type": "boolean",
+            "editor_role": "content_editor"
+        },
+        {
+            "key": "isMainstreetQA",
+            "label": "Mainstreet QA Instance",
+            "default_value": false,
+            "data_type": "boolean",
+            "editor_role": "content_editor"
+        },
+        {
+            "key": "isMainstreetProd",
+            "label": "Mainstreet Prod Instance",
+            "default_value": false,
+            "data_type": "boolean",
             "editor_role": "content_editor"
         }
     ],
