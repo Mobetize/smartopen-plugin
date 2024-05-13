@@ -41,6 +41,13 @@
             "default_value": false,
             "data_type": "boolean",
             "editor_role": "content_editor"
+        },
+        {
+            "key": "redirection_btn",
+            "label": "Main Redirection",
+            "default_value": "Launch SmartOpen",
+            "data_type": "string",
+            "editor_role": "content_editor"
         }
     ],
     "start_template": "index.hbs",
