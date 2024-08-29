@@ -48,6 +48,13 @@
             "default_value": "Launch SmartOpen",
             "data_type": "string",
             "editor_role": "content_editor"
+        },
+        {
+            "key": "kyc-product_btn",
+            "label": "KYC Product Redirection",
+            "default_value": "KYC Product",
+            "data_type": "string",
+            "editor_role": "content_editor"
         }
     ],
     "start_template": "index.hbs",
